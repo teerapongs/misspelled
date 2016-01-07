@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>randomPlayer</key>
+	<array>
+		<array>
+			<string>sun35x35.png</string>
+		</array>
+		<array>
+			<string>mercury35x35.png</string>
+		</array>
+		<array>
+			<string>venus35x35.png</string>
+		</array>
+		<array>
+			<string>earth35x35.png</string>
+		</array>
+		<array>
+			<string>mars35x35.png</string>
+		</array>
+		<array>
+			<string>jupiter35x35.png</string>
+		</array>
+		<array>
+			<string>saturn35x35.png</string>
+		</array>
+		<array>
+			<string>uranus35x35.png</string>
+		</array>
+		<array>
+			<string>neptune35x35.png</string>
+		</array>
+		<array>
+			<string>pluto35x35.png</string>
+		</array>
+		<array>
+			<string>meteor35x35.png</string>
+		</array>
+	</array>
+</dict>
+</plist>

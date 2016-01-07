@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>questionArray</key>
+	<array>
+		<array>
+			<string>level3</string>
+			<string>Milky Way</string>
+			<string>Andromeda</string>
+			<string>Whirlpool</string>
+			<string>Sombrero</string>
+		</array>
+		<array>
+			<string>level3</string>
+			<string>ดาวเสาร์</string>
+			<string>ดาวพฤหัส</string>
+			<string>โลก</string>
+			<string>ดาวพุธ</string>
+		</array>
+		<array>
+			<string>level3</string>
+			<string>ดาวพุธ</string>
+			<string>ดาวศุกร์</string>
+			<string>ดาวพฤหัสบดี</string>
+			<string>โลก</string>
+		</array>
+		<array>
+			<string>level3</string>
+			<string>ดาวศุกร์</string>
+			<string>โลก</string>
+			<string>ดาวพฤหัส</string>
+			<string>ดาวอังคาร</string>
+		</array>
+		<array>
+			<string>level3</string>
+			<string>สุนัข</string>
+			<string>แมลงสาบ</string>
+			<string>หนู</string>
+			<string>แมว</string>
+		</array>
+		<array>
+			<string>level3</string>
+			<string>สหภาพโซเวียต</string>
+			<string>สหรัฐอเมริกา</string>
+			<string>สาธารณรัฐประชาชนจีน</string>
+			<string>ญี่ปุ่น</string>
+		</array>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>answers</key>
+	<array>
+		<array>
+			<string>Milky Way</string>
+		</array>
+		<array>
+			<string>ดาวพฤหัส</string>
+		</array>
+		<array>
+			<string>ดาวพุธ</string>
+		</array>
+		<array>
+			<string>ดาวพฤหัส</string>
+		</array>
+		<array>
+			<string>สุนัข</string>
+		</array>
+		<array>
+			<string>สหภาพโซเวียต</string>
+		</array>
+	</array>
+</dict>
+</plist>
